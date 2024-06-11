@@ -1,2 +1,2 @@
 # python
-Python practiced tutorials by topic wise 
+This repository folders are Python practiced tutorials by topic wise 
